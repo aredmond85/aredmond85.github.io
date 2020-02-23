@@ -1,11 +1,11 @@
 # Site settings
-author: AUSTIN L REDMOND
-title: 
+author: Austin Redmond
+title: Marrix's Bag
 header-img: img/home-bg.png
 email: aredmond85@gmail.com
-copyright_name: AUSTIN L REDMOND
+copyright_name: Austin Redmond
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Gotta Code 'Em All!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  aredmond85
