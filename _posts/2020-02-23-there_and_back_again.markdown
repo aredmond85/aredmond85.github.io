@@ -1,0 +1,15 @@
+---
+layout: post
+title:      "There and Back Again..."
+date:       2020-02-24 01:05:30 +0000
+permalink:  there_and_back_again
+---
+
+
+This has been a lengthy journey hence the title. I originally started my journey with Computer Science at UTSA. I started programming there for about 3 to 4 years. Due to life choices and current situation in life at the time I decided to swap over to an IT degree in my senior year. I proceeded to get my bachelor's in Information Technology - Networking and Communications and decided to work in the IT field for the past 7 years. However, I always dabbled in code. Alittle here, alittle there. Scripting in the infrastructure world always interested me while in IT and I always focused on automation and efficiency.
+
+During my working life, I created a Wordpress blog and modified some of the frontend code while using it and maintained that for about a year. I took some self study courses at [Treehouse](https://teamtreehouse.com/) for HTML, CSS, Javascript. I also started dabbling in Udemy and doing courses there. Nothing was ever serious and I never found a purpose besides just wanting to learn. I evenually dropped it for about a year and decided I needed to focus on my IT career a bit more and it's certifications. However, I started learning I had no interest in continuing that path. I became bored, and frustrated with my career choices more and more.
+
+It was time to defeat the demon and act on what I has been lingering in my mind for these past years after I swapped out of Computer Science. My wife and I talked and she had been urging me to get back into programming for the past 3 years or so, but I didn't think it was worth it at the time because I had put so much time and commitment into IT. However, I wasn't happy, and yet I kept completing these beginner to intermediate courses for fun. I finally dug a bit deeper and realized I wanted to change my career and take the risk. So, I decided to take a more serious role in coding so I decided to look into bootcamps. I had a friend that works for a startup and previously IBM as a programmer and manager and asked for his input and he gave his experienced blessing on this type of thing also.
+
+So here I am, I chose programming because it was my first choice when I was younger, and the passion never left me. The logic classes and programming helped me though my career in IT and life and I noticed how much it had affected me. I wanted more for me and my family and to stop settling in my career and decided to take charge more and start programming again for real this time. Development of application, games, and databases has always intrigued me and I am hoping to go down that path and maybe one day create something for myself while working for another entity entirely and learning more everyday. It seems it would benefit my brain and thoughtprocess more. I love troubleshooting and puzzles and I remember development being an puzzle all day and everyday and I am looking forward to it.
